@@ -1,31 +1,8 @@
-````markdown
+
 # UniTrack — Advanced Course Registration Portal
 
 **UniTrack** is a database-driven web application for managing university course enrollments and academic administration. Built with **HTML, CSS, Bootstrap, PHP, and MySQL**, UniTrack streamlines student registration, course management, departmental coordination, notices, and secure user authentication while providing a responsive, user-friendly interface for both students and administrators.
 
----
-
-## Table of Contents
-- [Project Overview](#project-overview)
-- [Key Features](#key-features)
-- [Tech Stack](#tech-stack)
-- [Repository Contents](#repository-contents)
-- [Prerequisites](#prerequisites)
-- [Local Installation (XAMPP / Windows)](#local-installation-xampp--windows)
-- [Alternative Installation (Linux)](#alternative-installation-linux)
-- [Database Import & SQL Notes](#database-import--sql-notes)
-- [Configuration (DB / App)](#configuration-db--app)
-- [Running the App Locally](#running-the-app-locally)
-- [Deployment (cPanel / Shared Host)](#deployment-cpanel--shared-host)
-- [Git & GitHub — Step-by-step (fixes included)](#git--github---step-by-step-fixes-included)
-- [Recommended .gitignore](#recommended-gitignore)
-- [Security Checklist](#security-checklist)
-- [Troubleshooting](#troubleshooting)
-- [Future Improvements](#future-improvements)
-- [Contributing](#contributing)
-- [License & Contact](#license--contact)
-
----
 
 ## Project Overview
 UniTrack implements the full lifecycle of online course registration: session/semester management, department & course setup, student enrollment, news/notice board, enrollment history, admin and student authentication, user logs, and profile management. It is intended for academic use and designed to be simple to deploy on Apache/PHP + MySQL environments.
@@ -210,12 +187,6 @@ id passes.txt
 2. Create feature branch: `git checkout -b feature/new-feature`
 3. Commit & push: `git push origin feature/new-feature`
 4. Submit Pull Request.
-
----
-
-## License & Contact
-
-Project for academic/demo use.
 
 **Author:** Md. Abdullah Al Sami
 **GitHub:** [Abdullah-Al-Sami](https://github.com/Abdullah-Al-Sami)
